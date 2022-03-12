@@ -8,8 +8,13 @@ Implements symfony notifier component in symfony
 
 Read [Notifier Docs](https://symfony.com/doc/current/notifier.html)
 
-Resources  
+### Resources
+
+**`SMS Channel`**
 - [Amazon Simple Notification Service](https://ap-south-1.console.aws.amazon.com/sns/v3/home?region=ap-south-1#/homepage)
+
+**`Chat Channel`**
+- todo
 
 ## License
 The code is licensed under the [MIT License](https://github.com/habibun/symfony-notifier/blob/master/LICENSE)
