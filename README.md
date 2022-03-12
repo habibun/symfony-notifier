@@ -9,6 +9,7 @@ Implements symfony notifier component in symfony
 Read [Notifier Docs](https://symfony.com/doc/current/notifier.html)
 
 Resources  
+`SMS Channel`
 - [Amazon Simple Notification Service](https://ap-south-1.console.aws.amazon.com/sns/v3/home?region=ap-south-1#/homepage)
 
 ## License
