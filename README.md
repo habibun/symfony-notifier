@@ -17,7 +17,7 @@ Read [Notifier Docs](https://symfony.com/doc/current/notifier.html)
 - todo
 
 **`Email Channel`**
-- [Amazon SES](https://ap-south-1.console.aws.amazon.com/sesv2/home?region=ap-south-1#/homepage)
+- [Amazon Simple Email Service](https://ap-south-1.console.aws.amazon.com/sesv2/home?region=ap-south-1#/homepage)
 
 ## License
 The code is licensed under the [MIT License](https://github.com/habibun/symfony-notifier/blob/master/LICENSE)
